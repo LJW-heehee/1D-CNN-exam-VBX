@@ -1,0 +1,12 @@
+bearing_vbx/
+**/X.npy
+**/y.npy
+*.vnnx
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.bak
+sweep_tmp.*
+.DS_Store
+docs/
